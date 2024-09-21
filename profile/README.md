@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +8,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+# The Gravestone Team
+hey! we are a small team of developers mainly working on palladium addons but we do a bunch of other stuff too sometimes
+
+we got stuff like: the library addon - Gravestone: Core
+the ben 10 addon - Gravestone: HeroTime
+
+and more on the way!
